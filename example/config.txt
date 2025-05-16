@@ -1,0 +1,2 @@
+Prefix plugins/DensityPlot/example/
+Plugin DensityPlot inputfile iris.csv outputfile output.png
